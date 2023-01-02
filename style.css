@@ -10,7 +10,7 @@ body{
 }
 #header{
   width: 100%;
-  height: 100vh;
+  height: 50vh;
   background-image: url(Images/Pre_Historic\ Man.png);
   background-size: cover;
   background-position: center;
