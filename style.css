@@ -68,7 +68,7 @@ nav ul li a:hover::after {
 }
 
 .header-text h3 {
-  font-size: 60px;
+  font-size: 40px;
   margin-top: 00px;
 }
 
@@ -81,7 +81,7 @@ nav ul li a:hover::after {
 }
 
 .paragraph{
-  font-size: 40px;
+  font-size: 32px;
   font-weight: 100;
   margin-top: 02%;
   color: #ffffff;
