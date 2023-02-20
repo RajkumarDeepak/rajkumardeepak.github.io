@@ -12,7 +12,7 @@ body {
 #header {
   width: 100%;
   height: 100vh;
-  background-image: url(Images/Pre_Historic\ Man.png);
+  background-image: url(Images/Deepak_Mount.png);
   background-size: cover;
   background-position: center;
 }
@@ -70,6 +70,10 @@ nav ul li a:hover::after {
 .header-text h3 {
   font-size: 40px;
   margin-top: 00px;
+}
+
+.header-text h3{
+  color: #ffffff;
 }
 
 .header-text h3 span {
