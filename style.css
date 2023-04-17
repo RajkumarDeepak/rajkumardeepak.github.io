@@ -89,5 +89,34 @@ nav ul li a:hover::after {
 /*  --------------About------------------ */
 
 #about {
-  padding: 100px;
+  padding: 100px 0;
+  color: rgb(0, 0, 0);
+}
+.row{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.about-col-1{
+flex-basis: 45%;
+}
+.about-col-1 img{
+width: 100%;
+border-radius: 00px;
+}
+.about-col-2{
+  flex-basis: 50%;
+
+}
+.Sub-title{
+  font-size: 40px;
+  font-weight: 600;
+  color: #eb3c96;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.Aboutme-paragrpah{
+  font-size: 21px;
+  line-height: 28px;
 }
