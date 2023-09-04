@@ -81,11 +81,18 @@ nav ul li a:hover::after {
 }
 
 .paragraph {
-  font-size: 32px;
+  font-size: 28px;
+  font-style: italic;
   font-weight: 100;
   margin-top: 02%;
-  color: #ffffff;
+  color: #00f7b9;
 }
+
+.paragraph1 {
+  color: #ffffff;
+  font-style: normal;
+}
+
 /*  --------------About------------------ */
 
 #about {
