@@ -49,7 +49,7 @@ nav ul li a::after {
   content: "";
   width: 0;
   height: 3px;
-  background: #3ceb56;
+  background: #00f7b9;
   position: absolute;
   left: 0;
   bottom: -6px;
@@ -77,7 +77,7 @@ nav ul li a:hover::after {
 }
 
 .header-text h3 span {
-  color: #eb3c96;
+  color: #00f7b9;
 }
 
 .paragraph {
